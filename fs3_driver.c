@@ -4,8 +4,8 @@
 //  Description    : This is the implementation of the standardized IO functions
 //                   for used to access the FS3 storage system.
 //
-//   Author        : *** INSERT YOUR NAME ***
-//   Last Modified : *** DATE ***
+//   Author        : Justin Cote
+//   Last Modified : Nov 20th 2021
 //
 
 // Includes
